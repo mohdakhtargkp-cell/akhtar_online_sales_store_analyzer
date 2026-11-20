@@ -1,0 +1,41 @@
+Order_ID,Product,Category,Quantity,Unit_Price,Revenue,Total_Items_Value
+O001,Notebook,Stationery,7,20,140,140
+O002,Bottle,Accessories,3,250,750,750
+O003,Bag,Accessories,6,20,120,120
+O004,Bag,Accessories,2,30,60,60
+O005,Bag,Accessories,7,250,1750,1750
+O006,Notebook,Stationery,7,50,350,350
+O007,USB Drive,Electronics,6,30,180,180
+O008,Bottle,Accessories,3,20,60,60
+O009,Mouse,Electronics,2,250,500,500
+O010,Mouse,Electronics,4,50,200,200
+O011,Bottle,Accessories,3,30,90,90
+O012,Notebook,Stationery,3,50,150,150
+O013,Pen,Stationery,3,250,750,750
+O014,Pen,Stationery,2,30,60,60
+O015,USB Drive,Electronics,8,100,800,800
+O016,Mouse,Electronics,8,500,4000,4000
+O017,Mouse,Electronics,6,500,3000,3000
+O018,Bottle,Accessories,3,100,300,300
+O019,Notebook,Stationery,8,100,800,800
+O020,USB Drive,Electronics,5,50,250,250
+O021,Mouse,Electronics,1,50,50,50
+O022,Mouse,Electronics,2,50,100,100
+O023,Bag,Accessories,8,20,160,160
+O024,Notebook,Stationery,6,50,300,300
+O025,Notebook,Stationery,2,250,500,500
+O026,Mouse,Electronics,7,100,700,700
+O027,Mouse,Electronics,1,100,100,100
+O028,Mouse,Electronics,4,50,200,200
+O029,Mouse,Electronics,8,250,2000,2000
+O030,Pen,Stationery,1,100,100,100
+O031,Notebook,Stationery,6,500,3000,3000
+O032,Notebook,Stationery,3,20,60,60
+O033,Pen,Stationery,8,100,800,800
+O034,Mouse,Electronics,3,50,150,150
+O035,Bottle,Accessories,5,100,500,500
+O036,Bag,Accessories,6,500,3000,3000
+O037,Mouse,Electronics,1,500,500,500
+O038,USB Drive,Electronics,6,20,120,120
+O039,Bottle,Accessories,2,250,500,500
+O040,USB Drive,Electronics,7,50,350,350
